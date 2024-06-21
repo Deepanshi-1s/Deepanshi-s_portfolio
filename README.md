@@ -1,5 +1,8 @@
 # Gender Balance in the Executive Suite
 Objective: Measured and analyzed gender balance in the executive suite to support diversity and inclusion initiatives.
+## Tools used
+- Excel - Data cleaning
+- Power Bi - Creating reports
 ## Defined KPIs:
 Number of men in the executive suite.
 Number of women in the executive suite.
